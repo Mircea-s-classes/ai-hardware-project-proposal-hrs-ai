@@ -8,14 +8,19 @@
 
 ---
 
-# AI Hardware Project Proposal Template
+# AI Hardware Project Proposal
 
 ## 1. Project Title
 Name of the Team
+HRS AI
 
 List of students in the team
+- Raul Cancho
+- Hannah Duong
+- Salina Tran
 
 Provide a clear and concise title for your project. 
+
 
 ## 2. Platform Selection
 Select one platform category and justify your choice.
@@ -38,12 +43,11 @@ List tangible outputs: working demo, GitHub repository, documentation, presentat
 ## 7. Team Responsibilities
 List each member’s main role.
 
-| Name | Role | Responsibilities |
-|------|------|------------------|
-| [Student A] | Team Lead | Coordination, documentation |
-| [Student B] | Hardware | Setup, integration |
-| [Student C] | Software | Model training, inference |
-| [Student D] | Evaluation | Testing, benchmarking |
+| Name | Role  | Responsibilities |
+|------|-------|------------------|
+| Raul Cancho  | Team Lead | Coordination, documentation | Testing, benchmarking |
+| Hannah Duong | Hardware | Setup, integration |
+| Salina Tran  | Software | Model training, inference |
 
 ## 8. Timeline and Milestones
 Provide expected milestones:
