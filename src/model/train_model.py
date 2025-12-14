@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.optim as optim
+import torchvision
 from torchvision import datasets, transforms, models
 from pathlib import Path
 import time
