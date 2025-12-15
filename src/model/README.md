@@ -11,6 +11,4 @@ grade_images.py: test the model against images
 Requirements:
 pip3 install torchvision opencv-python
 Python 3.12.6
-
-pip install numpy pandas pillow
-pip install opencv-python
+python.exe -m pip install --upgrade pip
