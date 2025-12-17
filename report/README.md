@@ -1,6 +1,16 @@
+
+
 This final `README.md` serves as a complete project report and technical guide for **Trash-E**. It integrates the provided Python scripts, performance data from the benchmarking, and the hardware deployment steps for the **Raspberry Pi 5** and **Hailo-8L**.
 
 ---
+## 👥 Team Information
+
+* **Team Name**: HRS AI
+* **Team Members**:
+* Raul Cancho
+* Salina Tran
+* Hannah Duong
+
 
 # ♻️ Trash-E: Real-Time Edge AI Waste Classification
 
@@ -119,9 +129,6 @@ source /path/to/hailo_sdk/activate.sh
 python new_test.py
 ```
 * The system will monitor the camera in real time, displaying a **prediction** and its **confidence interval** on screen. A stable prediction (Green) is only shown if the same label is detected for at least **9 out of 15** consecutive frames.
-
-
-
 
 
 ---
